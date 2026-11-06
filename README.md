@@ -1,5 +1,6 @@
  TNSAIML_Training
- Credit Card Fraud Detection Using Classification Techniques
+               
+Credit Card Fraud Detection Using Classification Techniques
 This project analyzes credit card transaction data and identifies fraudulent transactions using Machine Learning classification algorithms. It predicts whether a transaction is legitimate or fraudulent and helps identify suspicious financial activities.
 
 Technologies Used:
